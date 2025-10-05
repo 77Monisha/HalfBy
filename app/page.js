@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
-  return <div>ndkjlbv</div>;
+  return <div className="pt-16">ndkjlbv</div>;
 }
